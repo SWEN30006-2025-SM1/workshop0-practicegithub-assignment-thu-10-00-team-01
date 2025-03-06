@@ -5,7 +5,9 @@ public class Main {
         Calculator calculator = new Calculator();
         System.out.println("add = " + calculator.add(3, 5));
 
-        //1234567899
+        //12345
+        //11234
+        //llll
         System.out.println("minus = " + calculator.minus(8, 2));
 
 
