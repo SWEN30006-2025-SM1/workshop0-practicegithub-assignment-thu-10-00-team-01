@@ -5,9 +5,21 @@ public class Main {
         Calculator calculator = new Calculator();
         //What
         System.out.println("add = " + calculator.add(3, 5));
+
+        //12345
+        //11234
+        //llll
         System.out.println("minus = " + calculator.minus(8, 2));
+
+
         System.out.println("multiply = " + calculator.multiply(3, 5));
+
+
         System.out.println("divide = " + calculator.divide(6, 3));
+
+
+
+
 
     }
 }
